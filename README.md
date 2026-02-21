@@ -1,5 +1,7 @@
 # TechCorp Customer Support Agent
 
+**Live Demo: [techcorp-chatbot.streamlit.app](https://techcorp-chatbot.streamlit.app/)**
+
 An AI-powered customer support chatbot built with OpenAI, MCP (Model Context Protocol), and Streamlit. The agent can browse products, verify customers, look up orders, and place new orders — all through natural conversation backed by real tools.
 
 ## Architecture
